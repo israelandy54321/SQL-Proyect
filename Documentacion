@@ -1,1 +1,5 @@
+SELECT * FROM users
+
+INSERT INTO users (nombre,apellido,edad)
+VALUES ("Andy","De la Cruz",24)
 
